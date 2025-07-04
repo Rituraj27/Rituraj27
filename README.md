@@ -1,7 +1,7 @@
 ### Hello, World! 👋 I'm Rituraj.
 I am Developer and still learning the technologies. I enjoy creating things that live on the internet and find the challenges that programming brings very exciting! Transitioning to tech has enabled me to continue my passion for learning and embrace my status as a forever student.
 
-- 🌱 I’m currently learning Frontent
+- 🌱 I’m currently learning Frontend
 - 🔍 I’m looking for to contribute on an open source projects
 - ⚡ Fun facts: I love hiking, fishing, playing musical instrument
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/riturajhao/)
